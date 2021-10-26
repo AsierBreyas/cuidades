@@ -1,0 +1,16 @@
+F:\2DAW3\dwes\cuidades\bin\Debug\net5.0\cuidades.exe
+F:\2DAW3\dwes\cuidades\bin\Debug\net5.0\cuidades.deps.json
+F:\2DAW3\dwes\cuidades\bin\Debug\net5.0\cuidades.runtimeconfig.json
+F:\2DAW3\dwes\cuidades\bin\Debug\net5.0\cuidades.runtimeconfig.dev.json
+F:\2DAW3\dwes\cuidades\bin\Debug\net5.0\cuidades.dll
+F:\2DAW3\dwes\cuidades\bin\Debug\net5.0\ref\cuidades.dll
+F:\2DAW3\dwes\cuidades\bin\Debug\net5.0\cuidades.pdb
+F:\2DAW3\dwes\cuidades\obj\Debug\net5.0\cuidades.csproj.AssemblyReference.cache
+F:\2DAW3\dwes\cuidades\obj\Debug\net5.0\cuidades.GeneratedMSBuildEditorConfig.editorconfig
+F:\2DAW3\dwes\cuidades\obj\Debug\net5.0\cuidades.AssemblyInfoInputs.cache
+F:\2DAW3\dwes\cuidades\obj\Debug\net5.0\cuidades.AssemblyInfo.cs
+F:\2DAW3\dwes\cuidades\obj\Debug\net5.0\cuidades.csproj.CoreCompileInputs.cache
+F:\2DAW3\dwes\cuidades\obj\Debug\net5.0\cuidades.dll
+F:\2DAW3\dwes\cuidades\obj\Debug\net5.0\ref\cuidades.dll
+F:\2DAW3\dwes\cuidades\obj\Debug\net5.0\cuidades.pdb
+F:\2DAW3\dwes\cuidades\obj\Debug\net5.0\cuidades.genruntimeconfig.cache

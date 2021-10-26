@@ -1,0 +1,16 @@
+F:\2DAW3\dwes\proyecto3\bin\Debug\net5.0\proyecto3.exe
+F:\2DAW3\dwes\proyecto3\bin\Debug\net5.0\proyecto3.deps.json
+F:\2DAW3\dwes\proyecto3\bin\Debug\net5.0\proyecto3.runtimeconfig.json
+F:\2DAW3\dwes\proyecto3\bin\Debug\net5.0\proyecto3.runtimeconfig.dev.json
+F:\2DAW3\dwes\proyecto3\bin\Debug\net5.0\proyecto3.dll
+F:\2DAW3\dwes\proyecto3\bin\Debug\net5.0\ref\proyecto3.dll
+F:\2DAW3\dwes\proyecto3\bin\Debug\net5.0\proyecto3.pdb
+F:\2DAW3\dwes\proyecto3\obj\Debug\net5.0\proyecto3.csproj.AssemblyReference.cache
+F:\2DAW3\dwes\proyecto3\obj\Debug\net5.0\proyecto3.GeneratedMSBuildEditorConfig.editorconfig
+F:\2DAW3\dwes\proyecto3\obj\Debug\net5.0\proyecto3.AssemblyInfoInputs.cache
+F:\2DAW3\dwes\proyecto3\obj\Debug\net5.0\proyecto3.AssemblyInfo.cs
+F:\2DAW3\dwes\proyecto3\obj\Debug\net5.0\proyecto3.csproj.CoreCompileInputs.cache
+F:\2DAW3\dwes\proyecto3\obj\Debug\net5.0\proyecto3.dll
+F:\2DAW3\dwes\proyecto3\obj\Debug\net5.0\ref\proyecto3.dll
+F:\2DAW3\dwes\proyecto3\obj\Debug\net5.0\proyecto3.pdb
+F:\2DAW3\dwes\proyecto3\obj\Debug\net5.0\proyecto3.genruntimeconfig.cache
